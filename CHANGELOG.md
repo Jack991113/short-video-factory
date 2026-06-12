@@ -4,15 +4,15 @@ All significant changes to this project will be recorded in this file.
 
 此项目的所有显著更改都将记录在此文件中。
 
-## [v1.2.2-jack.2] - 2026-06-13
+## [v1.2.2-jack.3] - 2026-06-13
 
 ### Fork Release
 
-- Prepare a fork-specific release tag after enabling GitHub Actions on the fork
+- Grant release workflow write permission and retry the fork release tag
 
 ### Fork 发布
 
-- 在启用 fork 仓库的 GitHub Actions 后，准备独立发布标签以验证远程构建流程
+- 为发布工作流补充写权限，并重新触发 fork 发布标签
 
 ## [v1.2.2] - 2026-04-07
 
