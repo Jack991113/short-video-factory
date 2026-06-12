@@ -4,6 +4,16 @@ All significant changes to this project will be recorded in this file.
 
 此项目的所有显著更改都将记录在此文件中。
 
+## [v1.2.2-jack.1] - 2026-06-13
+
+### Fork Release
+
+- Prepare a fork-specific release tag for GitHub Actions deployment verification
+
+### Fork 发布
+
+- 为 fork 仓库准备独立发布标签，用于验证 GitHub Actions 远程构建流程
+
 ## [v1.2.2] - 2026-04-07
 
 ### Fixed & Optimized
